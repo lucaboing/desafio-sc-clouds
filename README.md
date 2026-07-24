@@ -23,7 +23,7 @@ python3 primos/primos_linear.py
 
 ## exemplos de saidas
 fibonacci:
-entrada: 0, saida: 0 | entrada: 3, saida: 2 | entrada: 7, saida: 13
+entrada: 0 → saida: 0 | entrada: 3 → saida: 2 | entrada: 7 → saida: 13
 
 ## autor
 Luca Boing Albino
