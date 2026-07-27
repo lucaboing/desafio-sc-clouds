@@ -22,9 +22,9 @@ python3primos/primos_linear.py
 ```
 
 ## exemplos de saidas
-fibonacci:
-entrada: 0 → saida: 0 | entrada: 3 → saida: 2 | entrada: 7 → saida: 13
-primos:
+fibonacci:  
+entrada: 0 → saida: 0 | entrada: 3 → saida: 2 | entrada: 7 → saida: 13  
+primos:  
 entrada: 5 → saida: [2, 3, 5] | entrada: 15 → saida: [2, 3, 5, 7, 11, 13]
 
 ## autor
